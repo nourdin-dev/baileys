@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TanjiroDevil/baileys#readme",
+  "homepage": "https://github.com/nourdin-dev/baileys#readme",
   "repository": {
-    "url": "git+https://github.com/TanjiroDev/baileys.git"
+    "url": "git+https://github.com/nourdin-dev/baileys.git"
   },
   "license": "MIT",
-  "author": "TanjiroDev",
+  "author": "nourdin-dev",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
